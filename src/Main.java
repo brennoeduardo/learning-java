@@ -27,7 +27,6 @@ public class Main {
 
         String messageMeasure = String.format("Measure with eight decimal places: %s", numberFormatUS.format(measure));
 
-//        System.out.println("Product: ");
 //        System.out.println(messageProductOne);
 //        System.out.println(messageProductTwo);
 //
